@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/021138839.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   **차별화된 서비스를 만들어내는 개발자, **꼼꼼하게 빈 틈을 채워나가는 개발자**, **사람들이 필요로 하는 것이 무엇인지 고민하는 개발자**가 되고싶은 
   Java & Spring, NodeJS 기반의 신입 개발자입니다.<br/>개인이 하고 싶은 일 보다는 <mark>회사와 팀에 도움이 되는</mark> 개발을 해야한다는 생각을
