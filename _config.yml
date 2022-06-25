@@ -150,7 +150,7 @@ content:
           CRUD 게시판 구현
         description: | 
           * AJAX(비동기)를 사용한 페이지 구현
-          * 네이버 로그인 API, 지도 API 사용
+          * 네이버 로그인 API, 지도 API 사용, 로그인 bcrypt 암호화 
           * SMTP를 활용한 회원가입 2차보안
           * XSS 필터링, SSL 적용
 
