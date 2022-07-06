@@ -205,7 +205,7 @@ content:
           * MyBatis
           * Tomcat
           * AWS,EC2,NaverCloud
-          * Linux,Jenkins
+          * Linux
 
       - layout: center
         title: Frontend
