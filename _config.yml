@@ -167,7 +167,6 @@ content:
           블록체인 기반의 믿을 수 있는 퀵 서비스
         description: | 
           * Solidity를 이용해 컨트렉트 기반 언어로 블록체인의 스마트계약 작성 및 구현
-          * Node.js에서 EJS템플릿 엔진을 사용해 웹개발
           * ReactNative을 사용한 앱개발
 
   - title: Education
