@@ -132,7 +132,6 @@ content:
           실시간 채팅 웹서비스(기능추가)
         description: | # this will include new lines to allow paragraphs
           * 고유한 프로필 사진 생성
-          * 현재 채팅에 참가한 유저 목록 위젯
           * 같은 사람이 연달아 올릴 때 프로필 사진 생략
           * 같은 사람이 같은 시간에 연달아 올릴 때 가장 최근 메시지에만 시간표시
 
